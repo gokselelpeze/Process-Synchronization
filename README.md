@@ -39,3 +39,7 @@ so long for working.<br>
 &#9;together they empty the room.<br>
 &#9;○ Waiting at hospital: If there is no empty room, she/he's gonna wait for a room at the
 &#9;outdoor waiting hole of the hospital.
+
+
+![Screen Shot 2021-01-09 at 23 00 04](https://user-images.githubusercontent.com/47809642/114874074-a0d05e00-9e04-11eb-94de-b8bfdb69b0fd.png)
+
